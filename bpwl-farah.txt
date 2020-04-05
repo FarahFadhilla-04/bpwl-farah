@@ -1,1 +1,1 @@
-
+Tujuan mendaftar github adalah agar kita bisa mencoba membuat branch dan fork untuk melengkapi laporan praktikum bpwl
