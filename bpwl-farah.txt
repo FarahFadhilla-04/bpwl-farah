@@ -1,1 +1,2 @@
 Tujuan mendaftar github adalah agar kita bisa mencoba membuat branch dan fork untuk melengkapi laporan praktikum bpwl
+Selain itu untuk membantu kita jika nanti kita bekerja dalam team, maka kita sudah mengerti dan tidak kesulitan 
